@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Individuell inlämningsuppgift - Emil Englesson/1.0.0": {
+        "runtime": {
+          "Individuell inlämningsuppgift - Emil Englesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Individuell inlämningsuppgift - Emil Englesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

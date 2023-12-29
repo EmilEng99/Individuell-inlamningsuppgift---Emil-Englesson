@@ -1,0 +1,14 @@
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\bin\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.exe
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\bin\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.deps.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\bin\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.runtimeconfig.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\bin\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\bin\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.AssemblyInfo.cs
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\refint\Individuell inlämningsuppgift - Emil Englesson.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\Individuell inlämningsuppgift - Emil Englesson.genruntimeconfig.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Individuell inlämningsuppgift - Emil Englesson\obj\Debug\net8.0\ref\Individuell inlämningsuppgift - Emil Englesson.dll
