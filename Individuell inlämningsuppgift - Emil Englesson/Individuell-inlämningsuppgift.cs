@@ -9,7 +9,7 @@ class Program
         string? userInput1 = " ";
         string? userInput2 = " ";
         string? userInputOperator = " ";
-        decimal result = 0;
+        double result = 0;
         bool startCalc = false;
         bool restart = false;
 
@@ -83,8 +83,8 @@ class Program
 
             
 
-            decimal inputNumber1 = Convert.ToDecimal(userInput1);
-            decimal inputNumber2 = Convert.ToDecimal(userInput2);
+            double inputNumber1 = Convert.ToDouble(userInput1);
+            double inputNumber2 = Convert.ToDouble(userInput2);
 
             result = InputCalculations(inputNumber1, userInputOperator, inputNumber2);
             
@@ -168,9 +168,9 @@ class Program
         } while (operatorInput == false);        
     } //Kontrollerar så att ett av de giltiga tecknen skrivs in
 
-    static decimal InputCalculations(decimal firstInput, string? Operator, decimal secondInput)
+    static double InputCalculations(double firstInput, string? Operator, double secondInput)
     {
-        decimal result = 0;
+        double result = 0;
 
         if (Operator == "+")
         {
